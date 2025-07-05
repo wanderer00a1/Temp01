@@ -26,7 +26,6 @@ Global Secondary Index: email-index
 ```bash
 cd backend
 npm install
-npm run build
 serverless deploy
 ```
 
